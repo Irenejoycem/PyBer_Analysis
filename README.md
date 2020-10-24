@@ -28,6 +28,6 @@ Based on my analysis and creating a multiple line chart to display the results, 
 
 Three recommendations I could provide in order to address these disparities among the city types is:
 
-1. It seems that fares is rural areas are high which may deter riders from wanting to order a ride through Pyber. Lowering fares could encourage riders to order more rides in rural areas.
+1. It seems that fares in rural areas are high which may deter riders from wanting to order a ride through Pyber. Lowering fares could encourage riders to order more rides in rural areas.
 2. It could be possible that fares are higher in rural areas is because there is a limited resource of drivers in rural areas. Offering incentives for drivers in rural areas could help in gaining more driver resources in rural areas.
 3. Ride counts in rural areas are also possibly due to a lower population. It could be interesting to see how we could bring the 3 city type closer by offering a "destination ride/weekend getaway" incentive during shelter in place where Pyber can offer a discounted ride to a nearby big urban city area versus flying in a plane. This also might incentivize riders to want to use Pyber.
