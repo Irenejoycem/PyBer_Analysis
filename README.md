@@ -22,7 +22,7 @@ In order to calculate this, I calculated the count of rides by city types. Then 
 **Below is the data shown in a multiple line graph that compares fares by city types:**
 ![PyBer_fare_summary.png](PyBer_fare_summary.png)
 
-# Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+# Summary:
 
 Based on my analysis and creating a multiple line chart to display the results, ride-sharing seems to be more profitable in urban cities. The second type of city that is profitable is suburban cities and rural cities ranking the least profitable.
 
